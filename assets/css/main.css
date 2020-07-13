@@ -7,6 +7,18 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.team-info {
+	display: flex;
+	flex-direction: row;
+}
+
+.video-container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin: 15px 0 25px;
+}
+
 h1, h2, h3 {
 	text-align: center;
 }
