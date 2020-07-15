@@ -27,6 +27,16 @@
 	color:  #333333;
 }
 
+.founder-gallery {
+		max-height: 500px;
+		overflow: hidden;
+}
+
+.founder-about h4, .founder-about p {
+	margin: 15px 0;
+}
+
+
 .image-gallery div {
 	max-height: 200px;
 	overflow: hidden;
