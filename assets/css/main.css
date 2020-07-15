@@ -18,6 +18,15 @@
 	margin-bottom: 10px;
 }
 
+.contact-info a {
+	color: unset;
+	margin-bottom: 15px;
+}
+
+.contact-info a:hover {
+	color:  #333333;
+}
+
 .image-gallery div {
 	max-height: 200px;
 	overflow: hidden;
@@ -51,6 +60,10 @@
 @media screen and (max-width: 736px) {
 	.banner-container{
 		height: 200px;
+	}
+
+	.contact-info {
+		font-size: 20px;
 	}
 }
 
